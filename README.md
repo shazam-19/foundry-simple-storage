@@ -129,6 +129,14 @@ If Foundry is not installed:
 
 Follow the up to date installation through this [link](https://www.getfoundry.sh/introduction/installation)
 
+---
+
+## Install Forge
+
+Inside the project directory, install the dependencies:
+```bash
+forge install
+```
 
 ---
 
